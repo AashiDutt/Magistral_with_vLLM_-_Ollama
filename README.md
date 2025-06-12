@@ -1,1 +1,1 @@
-# Magistral_with_vLLM_-_Ollama
+# Magistral_with_vLLM_&_Ollama
